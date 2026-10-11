@@ -21,11 +21,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity2" />
         <activity
-            android:name=".MainActivity3"
-            android:exported="false"
-            android:windowSoftInputMode="adjustResize" />
+            android:name=".MainActivity2"
+            android:exported="false" />
     </application>
 
 </manifest>

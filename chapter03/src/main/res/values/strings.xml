@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chapter03</string>
+    <string name="hello">你好，世界</string>
+    <string name="tv_match_parent">match_parent</string>
+    <string name="tv_wrap_content">wrap_content</string>
+    <string name="tv_fixed">fixed</string>
+    <string name="tv_code1">code1</string>
+</resources>
